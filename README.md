@@ -40,7 +40,7 @@ npm run make
 
 ### Notes
 
-- Make sure to check and adjust `main.js` in the `public` folder according to your application's requirements.
+- Make sure to check and adjust `main.js` in the `public` folder according to your application's requirements. The `forge.config.js` in the `src` too, cuz it's set for MacOs version only, so you have to add the linux or win32 configs.
 
 ## Built With
 
